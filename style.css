@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background: url("https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?cs=srgb&dl=pexels-felix-mittermeier-956999.jpg&fm=jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.ul-item{
+    list-style-type: none;
+    display:flex;
+    flex-wrap: nowrap;
+    flex-flow: column;
+    flex-direction: column;
+    color: white;
+}
